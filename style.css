@@ -92,13 +92,11 @@ button#exchange:hover {
 
 .rate {
   color: #5f2419;
-  width: 50%;
+  width: 100%;
   height: 35px;
-  border-radius: 15px;
-  border-radius: 35px;
-  margin-top: 80px;
+  margin-top: 50px;
   font-weight: 500;
-  font-size: 2rem;
+  font-size: 1.2rem;
   text-align: center;
 }
 
